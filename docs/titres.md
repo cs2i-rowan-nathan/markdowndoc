@@ -1,5 +1,5 @@
 ---
-icon: simple/markdown
+lucide/heading-1
 ---
 
 # Titres
